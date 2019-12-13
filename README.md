@@ -32,5 +32,7 @@ That's it. You can now run it by typing in 'calculator' anywhere in the terminal
 Al you have to do is type in your calculation into the textbox and press 'Evaluate!'
 
 To divide use **/** instead of **÷**
-To multiply use **'*'** instead of **x** 
+
+To multiply use **'*'** instead of **x**
+ 
 You can **-** and **+** normally.
