@@ -8,22 +8,22 @@ This is an ***very*** simple repository. ~~Not for idiots~~ Anyone can use this!
 
 First clone this repository by using the following commands.
 
-'''
+```
 cd ~
 git clone https://github.com/XPCMasterX/pycalculator.git
-'''
+```
 
 Then go into the folder.
 
-'''
+```
 cd pycalculator
-'''
+```
 
 To actually install the program.
 
-'''
+```
 ./install.sh
-'''
+```
 
 That's it. You can now run it by typing in 'calculator' anywhere in the terminal.
 
